@@ -7,5 +7,6 @@ Topics covered till now:
 - 2D Arrays and Strings
 - Vectors
 - Dynamic Memory Allocation
+- Number Theory
 
 More content added regularly.
