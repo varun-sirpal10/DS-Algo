@@ -8,5 +8,6 @@ Topics covered till now:
 - Vectors
 - Dynamic Memory Allocation
 - Number Theory
+- Bitmasking
 
 More content added regularly.
