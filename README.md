@@ -10,4 +10,3 @@ Topics covered till now:
 - Number Theory
 - Bitmasking
 
-More content added regularly.
